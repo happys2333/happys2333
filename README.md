@@ -29,5 +29,5 @@ Welcome to my page and hope you can find something useful.
 - [SUSTech-Opensource](https://github.com/SUSTech-OpenSource)
 - [Happys Soft](https://github.com/HappysSoft)
 
-![happys's GitHub stats](https://github-readme-stats.vercel.app/api?username=happys2333&hide=contribs,prs).![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=happys2333)
+![happys's GitHub stats](https://github-readme-stats.vercel.app/api?username=happys2333&hide=contribs,prs).
 
