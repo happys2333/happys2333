@@ -27,6 +27,11 @@ Welcome to my page and hope you can find something useful.
 
 <p>
  <img width=700 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happys2333&theme=nord_bright"/> 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/happys2333/happys2333/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/happys2333/happys2333/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/happys2333/happys2333/output/github-contribution-grid-snake.svg">
+</picture>
 <p>
 
 
