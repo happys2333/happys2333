@@ -27,9 +27,6 @@ Welcome to my page and hope you can find something useful.
 
 <p>
  <img width=700 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=happys2333&theme=nord_bright"/> 
- <img height=153 src="https://github-readme-stats.vercel.app/api?username=happys2333&show_icons=true&count_private=true&theme=nord_bright"> 
- <img height=153 src="https://github-readme-stats.vercel.app/api/top-langs/?username=happys2333&layout=compact&theme=nord_bright&hide=html,javascript">
-  
 <p>
 
 
